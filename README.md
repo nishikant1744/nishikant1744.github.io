@@ -1,5 +1,5 @@
 # Nishikant Nemade
-Hi there! 👋
+Hi there! 👋  /n
 I’m a Mechanical Engineering graduate already dived into the world of Data Analytics at the University of Strathclyde. My passion lies in blending traditional engineering skills with modern data science to solve real-world problems.
 🔧 Skills & Tools
 •	Mechanical Engineering: Quality assurance, defect analysis, casting inspections.
